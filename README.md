@@ -38,7 +38,7 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=samirkhadka841-afk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=A9FEF7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samirkhadka841-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=samirkhadka841-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhadka841-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7" width="49%" />
 <img src="https://github-profile-trophy.vercel.app/?username=samirkhadka841-afk&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%" />
