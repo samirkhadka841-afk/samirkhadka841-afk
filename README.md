@@ -37,10 +37,10 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirkhadka841-afk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=A9FEF7" width="49%" />
+<img src="https://helio-github-stats.vercel.app/api?username=samirkhadka841-afk&show_icons=true&include_all_commits=true&title_color=A9FEF7&text_color=E4E4F0&icon_color=A9FEF7&border_color=302b63&hide_border=false&border_radius=8&card_width=480&number_format=short" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=samirkhadka841-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhadka841-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7" width="49%" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=samirkhadka841-afk&layout=compact&title_color=A9FEF7&text_color=E4E4F0&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%" />
 <img src="https://github-trophies.vercel.app/?username=samirkhadka841-afk&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samirkhadka841-afk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=E4E4F0" width="100%" />
@@ -78,7 +78,7 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 <div align="center">
 
 <a href="https://github.com/samirkhadka841-afk/WALLET-MOMO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samirkhadka841-afk&repo=WALLET-MOMO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7" width="49%"/>
+<img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=WALLET-MOMO&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
 </a>
 
 </div>
