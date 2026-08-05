@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Samir%20Khadka&fontSize=58&fontColor=E4E4F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer%20in%20the%20making&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Samir%20Khadka&fontSize=58&fontColor=E4E4F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20AI%20Developer%20in%20the%20making&descAlignY=56&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A9FEF7&center=true&vCenter=true&width=680&lines=Aspiring+Computer+Science+Student;AI+%26+Full-Stack+Web+Dev+Enthusiast;Bachelor%27s+Applicant+%E2%80%A2+Always+Learning" alt="Typing SVG" />
 
@@ -77,8 +77,24 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 
 <div align="center">
 
-<a href="https://github.com/samirkhadka841-afk/WALLET-MOMO">
-<img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=WALLET-MOMO&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
+<a href="https://github.com/samirkhadka841-afk/EchoType">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=EchoType&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
+</a>
+
+<a href="https://github.com/samirkhadka841-afk/Learn_Sat">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=Learn_Sat&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
+</a>
+
+<a href="https://github.com/samirkhadka841-afk/G-AI-">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=G-AI-&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
+</a>
+
+<a href="https://github.com/samirkhadka841-afk/G-AI">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=G-AI&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
+</a>
+
+<a href="https://github.com/samirkhadka841-afk/studygenius-ai">
+  <img src="https://helio-github-stats.vercel.app/api/pin?username=samirkhadka841-afk&repo=studygenius-ai&border_color=302b63&hide_border=false&border_radius=8&card_width=480" width="49%"/>
 </a>
 
 </div>
