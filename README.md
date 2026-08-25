@@ -52,11 +52,11 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/samirkhadka841-afk/G-AI/issues/3) in [samirkhadka841-afk/G-AI](https://github.com/samirkhadka841-afk/G-AI)
-2. 🔒 Closed issue [#3](https://github.com/samirkhadka841-afk/studygenius-ai/issues/3) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
-3. 🔒 Closed issue [#4](https://github.com/samirkhadka841-afk/studygenius-ai/issues/4) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
-4. ℹ️ Assigned issue [#3](https://github.com/samirkhadka841-afk/studygenius-ai/issues/3) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
-5. ❗ Opened issue [#4](https://github.com/samirkhadka841-afk/studygenius-ai/issues/4) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
+1. 🔒 Closed issue [#3](https://github.com/samirkhadka841-afk/G-AI/issues/3) in [samirkhadka841-afk/G-AI](https://github.com/samirkhadka841-afk/G-AI)
+2. ❗ Opened issue [#3](https://github.com/samirkhadka841-afk/G-AI/issues/3) in [samirkhadka841-afk/G-AI](https://github.com/samirkhadka841-afk/G-AI)
+3. 🔒 Closed issue [#3](https://github.com/samirkhadka841-afk/studygenius-ai/issues/3) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
+4. 🔒 Closed issue [#4](https://github.com/samirkhadka841-afk/studygenius-ai/issues/4) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
+5. ℹ️ Assigned issue [#3](https://github.com/samirkhadka841-afk/studygenius-ai/issues/3) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&width=100%25" width="100%"/>
