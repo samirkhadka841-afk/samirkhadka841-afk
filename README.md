@@ -52,7 +52,7 @@ I'm currently applying to bachelor's programs, and I'm always up for collaborati
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/samirkhadka841-afk/G-AI/issues/3) in [samirkhadka841-afk/G-AI](https://github.com/samirkhadka841-afk/G-AI)
+1. ❗ Opened issue [#1](https://github.com/samirkhadka841-afk/G-AI-/issues/1) in [samirkhadka841-afk/G-AI-](https://github.com/samirkhadka841-afk/G-AI-)
 2. ❗ Opened issue [#3](https://github.com/samirkhadka841-afk/G-AI/issues/3) in [samirkhadka841-afk/G-AI](https://github.com/samirkhadka841-afk/G-AI)
 3. 🔒 Closed issue [#3](https://github.com/samirkhadka841-afk/studygenius-ai/issues/3) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
 4. 🔒 Closed issue [#4](https://github.com/samirkhadka841-afk/studygenius-ai/issues/4) in [samirkhadka841-afk/studygenius-ai](https://github.com/samirkhadka841-afk/studygenius-ai)
